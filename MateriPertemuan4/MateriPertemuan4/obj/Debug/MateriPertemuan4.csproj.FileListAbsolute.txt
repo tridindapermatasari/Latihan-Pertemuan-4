@@ -1,0 +1,7 @@
+D:\C#\MateriPertemuan4\MateriPertemuan4\bin\Debug\MateriPertemuan4.exe
+D:\C#\MateriPertemuan4\MateriPertemuan4\bin\Debug\MateriPertemuan4.pdb
+D:\C#\MateriPertemuan4\MateriPertemuan4\obj\Debug\MateriPertemuan4.csprojResolveAssemblyReference.cache
+D:\C#\MateriPertemuan4\MateriPertemuan4\obj\Debug\MateriPertemuan4.MainForm.resources
+D:\C#\MateriPertemuan4\MateriPertemuan4\obj\Debug\MateriPertemuan4.csproj.GenerateResource.Cache
+D:\C#\MateriPertemuan4\MateriPertemuan4\obj\Debug\MateriPertemuan4.exe
+D:\C#\MateriPertemuan4\MateriPertemuan4\obj\Debug\MateriPertemuan4.pdb

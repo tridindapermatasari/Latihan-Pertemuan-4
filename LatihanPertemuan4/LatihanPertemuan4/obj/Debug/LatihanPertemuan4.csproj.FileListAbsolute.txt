@@ -1,0 +1,7 @@
+D:\C#\LatihanPertemuan4\LatihanPertemuan4\bin\Debug\LatihanPertemuan4.exe
+D:\C#\LatihanPertemuan4\LatihanPertemuan4\bin\Debug\LatihanPertemuan4.pdb
+D:\C#\LatihanPertemuan4\LatihanPertemuan4\obj\Debug\LatihanPertemuan4.csprojResolveAssemblyReference.cache
+D:\C#\LatihanPertemuan4\LatihanPertemuan4\obj\Debug\LatihanPertemuan4.MainForm.resources
+D:\C#\LatihanPertemuan4\LatihanPertemuan4\obj\Debug\LatihanPertemuan4.csproj.GenerateResource.Cache
+D:\C#\LatihanPertemuan4\LatihanPertemuan4\obj\Debug\LatihanPertemuan4.exe
+D:\C#\LatihanPertemuan4\LatihanPertemuan4\obj\Debug\LatihanPertemuan4.pdb
